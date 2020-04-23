@@ -1,32 +1,19 @@
-## doc-it-api
-This repo contains an API used within the [PX Blue Home](https://pxblue.github.io) documentation website and an admin script used to maintain the underlying database.
-The API and Database are hosted by Firebase.
+## pxb-database
+This repo contains data used within the [PX Blue Home](https://pxblue.github.io) documentation website.
+The database is accessible in a JSON format and is enforced and built using typescript. 
 
-### admin
-The admin folder contains a node.js script that is used to insert data into the Firestore Database that the API reads from.
-
-To build the admin script, run:
+Our database is available through the Github API: 
 ```
-yarn build
-```
-To insert data into the `roadmap` collection found in the database, run: 
-```
-yarn insert:roadmap
+https://raw.githubusercontent.com/pxblue/pxb-database/master/database/doc-it/roadmap.json
 ```
 
-### api
-This API is a firebase function used to fetch Roadmap information for PX Blue Home's [Roadmap page](https://pxblue.github.io/roadmap).
+The index.ts is a Node.js script which is used to create the `/database` folder. 
 
-To develop the API locally, run:
+### 
+To build and run the script used to create the database, run: 
 ```
-yarn serve
+yarn start
 ```
-To deploy the API to firebase, run:
-```
-yarn deploy
-```
-
-
 
 
 
