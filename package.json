@@ -1,0 +1,21 @@
+{
+    "name": "pxb-database",
+    "version": "1.0.0",
+    "description": "Public static data accessible through the Git API",
+    "scripts": {
+        "build": "tsc",
+        "start": "yarn build && node dist/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pxblue/pxb-database"
+    },
+    "author": "PX Blue <pxblue@eaton.com>",
+    "bugs": {
+        "url": "https://github.com/pxblue/pxb-database/issues"
+    },
+    "devDependencies": {
+        "@types/node": "^13.13.2",
+        "typescript": "^3.8.3"
+    }
+}
