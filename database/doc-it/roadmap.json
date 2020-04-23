@@ -1,7 +1,7 @@
 {
   "roadmap": [
     {
-      "name": "Angular Component Library Hallo",
+      "name": "Angular Component Library",
       "description": "Reusable UI elements from @pxblue/angular-components",
       "applies": [
         "angular",
