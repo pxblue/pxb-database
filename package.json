@@ -10,7 +10,8 @@
         "type": "git",
         "url": "https://github.com/pxblue/pxb-database"
     },
-    "author": "PX Blue <pxblue@eaton.com>",
+    "author": "pxblue <pxblue@eaton.com>",
+    "license": "BSD-3-Clause",
     "bugs": {
         "url": "https://github.com/pxblue/pxb-database/issues"
     },
