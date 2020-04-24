@@ -4,10 +4,10 @@ The database is accessible in a JSON format and is enforced and built using type
 
 Our database is available through the Github API: 
 ```
-https://raw.githubusercontent.com/pxblue/pxb-database/master/database/doc-it/roadmap.json
+https://raw.githubusercontent.com/pxblue/pxb-database/master/deployed/doc-it/roadmap.json
 ```
 
-The index.ts is a Node.js script which is used to create the `/database` folder. 
+The index.ts is a Node.js script which is used to create the `/deployed` folder. 
 
 ### 
 To build and run the script used to create the database, run: 
