@@ -19,7 +19,7 @@ type RoadmapBucket = {
     items: RoadmapItem[];
 };
 
-export const r16Roadmap: RoadmapBucket[] = [
+export const roadmap: RoadmapBucket[] = [
     {
         name: 'Angular Component Library',
         description: 'Reusable UI elements from @pxblue/angular-components',
