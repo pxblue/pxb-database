@@ -1,5 +1,5 @@
 const fs = require('fs');
-const roadmap = require('./data/doc-it/R16Roadmap');
+import { roadmap } from "./data/doc-it/R16Roadmap";
 
 const entries: DataRecord[] = [
     {
