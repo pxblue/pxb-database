@@ -27,7 +27,7 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Hero',
-                description: 'Adding component to display an icon, value/units, and a label',
+                description: 'Add component to display an icon, value/units, and a label',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'finished',
@@ -35,7 +35,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'ChannelValue',
-                description: 'add component to display a channel value and units (usually part of Hero)',
+                description: 'Add component to display a channel value and units (usually part of Hero)',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'finished',
@@ -106,7 +106,7 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Hero',
-                description: 'Adding component to display an icon, value/units, and a label',
+                description: 'Add component to display an icon, value/units, and a label',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'finished',
@@ -114,7 +114,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'ChannelValue',
-                description: 'add component to display a channel value and units (usually part of Hero)',
+                description: 'Add component to display a channel value and units (usually part of Hero)',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'finished',
@@ -273,7 +273,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Typography',
-                description: 'add support to apply various typography text styles from the theme',
+                description: 'Add support to apply various typography text styles from the theme',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'finished',
