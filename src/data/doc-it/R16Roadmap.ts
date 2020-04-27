@@ -27,22 +27,30 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Drawer',
-                description: 'Adding drawer components for navigation',
-                year: 2020,
-                quarter: 'Q2',
-                status: 'backlog',
-                author: 'PX Blue',
-            },
-            {
-                name: 'InfoListItem',
-                description: 'Add a component for stylized list items',
+                description: 'Add drawer components for navigation',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'in-progress',
                 author: 'PX Blue',
             },
             {
-                name: 'ScoreCard',
+                name: 'Info List Item',
+                description: 'Add support for multiline/wrapping title and automatic hover states',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'in-progress',
+                author: 'PX Blue',
+            },
+            {
+                name: 'List Item Tag',
+                description: 'Add support for tags (within list items)',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'in-progress',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Score Card',
                 description: 'Add a component for stylized cards',
                 year: 2020,
                 quarter: 'Q2',
@@ -50,7 +58,7 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'UserMenu',
+                name: 'User Menu',
                 description: 'Add a component for dropdown menu from avatar',
                 year: 2020,
                 quarter: 'Q3',
@@ -58,7 +66,7 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'SelectionToolbar',
+                name: 'Selection Toolbar',
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q3',
@@ -73,7 +81,7 @@ export const roadmap: RoadmapBucket[] = [
         applies: ['react'],
         items: [
             {
-                name: 'InfoListItem',
+                name: 'Info List Item',
                 description: 'Add support for multiline/wrapping title and automatic hover states',
                 year: 2020,
                 quarter: 'Q2',
@@ -81,7 +89,7 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'UserMenu',
+                name: 'User Menu',
                 description: 'Add support for non-clickable menu items',
                 year: 2020,
                 quarter: 'Q2',
@@ -89,13 +97,14 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'SelectionToolbar',
+                name: 'Selection Toolbar',
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'backlog',
                 author: 'PX Blue',
             },
+
         ],
     },
     {
@@ -105,7 +114,7 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Drawer',
-                description: 'Adding a drawer component for navigation',
+                description: 'Add a drawer component for navigation',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'backlog',
@@ -120,7 +129,7 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'SelectionToolbar',
+                name: 'Selection Toolbar',
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q2',
@@ -210,7 +219,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'A command-line interface for starting new projects with automatic PX Blue integration',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
         ],
