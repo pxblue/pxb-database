@@ -50,6 +50,14 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
+                name: 'Score Card',
+                description: 'Add a component for stylized cards',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'in-progress',
+                author: 'PX Blue',
+            },
+            {
                 name: 'User Menu',
                 description: 'Add a component for dropdown menu from avatar',
                 year: 2020,
