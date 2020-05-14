@@ -182,6 +182,14 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'in-progress',
                 author: 'PX Blue',
             },
+            {
+                name: 'Enhanced Internationalization Support',
+                description: 'Updating our Internationalization examples to support additional languages and use recommended tools',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'in-progress',
+                author: 'PX Blue',
+            }
         ],
     },
     {
