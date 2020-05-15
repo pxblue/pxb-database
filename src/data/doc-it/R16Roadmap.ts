@@ -104,7 +104,6 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'backlog',
                 author: 'PX Blue',
             },
-
         ],
     },
     {
@@ -182,6 +181,14 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'in-progress',
                 author: 'PX Blue',
             },
+            {
+                name: 'Enhanced Internationalization Support',
+                description: 'Updating our Internationalization examples to support additional languages and use recommended tools',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            }
         ],
     },
     {
@@ -219,7 +226,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'A command-line interface for starting new projects with automatic PX Blue integration',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
         ],
