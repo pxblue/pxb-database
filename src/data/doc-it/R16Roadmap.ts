@@ -104,7 +104,6 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'backlog',
                 author: 'PX Blue',
             },
-
         ],
     },
     {
@@ -219,7 +218,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'A command-line interface for starting new projects with automatic PX Blue integration',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
         ],
