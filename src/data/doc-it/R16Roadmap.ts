@@ -186,7 +186,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Updating our Internationalization examples to support additional languages and use recommended tools',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             }
         ],
