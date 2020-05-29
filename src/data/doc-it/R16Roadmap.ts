@@ -1,6 +1,6 @@
 export type FrameworkFilter = 'all' | 'angular' | 'react' | 'ionic' | 'react-native';
 
-export type Status = 'backlog' | 'in-progress' | 'finished';
+export type Status = 'backlog' | 'in-progress' | 'pre-release' | 'deferred' | 'finished';
 export type Quarter = 'Q1' | 'Q2' | 'Q3' | 'Q4';
 
 export type RoadmapItem = {
@@ -30,7 +30,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add drawer components for navigation',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'in-progress',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -38,7 +38,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add support for multiline/wrapping title and automatic hover states',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'in-progress',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -46,7 +46,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add support for tags (within list items)',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'in-progress',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -54,7 +54,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a component for stylized cards',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'in-progress',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -101,7 +101,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'backlog',
+                status: 'deferred',
                 author: 'PX Blue',
             },
         ],
@@ -116,7 +116,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a drawer component for navigation',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -124,7 +124,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add components for basic screen layouts',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'backlog',
+                status: 'deferred',
                 author: 'PX Blue',
             },
             {
@@ -132,7 +132,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'backlog',
+                status: 'deferred',
                 author: 'PX Blue',
             },
         ],
@@ -197,20 +197,11 @@ export const roadmap: RoadmapBucket[] = [
         applies: ['all'],
         items: [
             {
-                name: 'React Native Login',
-                description: 'Shared login experience across applications',
+                name: 'React Native Login & User Registration',
+                description: 'Shared login and sign-up experience across applications',
                 year: 2020,
                 quarter: 'Q2',
-                status: 'in-progress',
-                author: 'Innersource',
-                applies: ['react-native'],
-            },
-            {
-                name: 'React Native User Registration',
-                description: 'Shared registration experience across applications',
-                year: 2020,
-                quarter: 'Q2',
-                status: 'in-progress',
+                status: 'pre-release',
                 author: 'Innersource',
                 applies: ['react-native'],
             },
