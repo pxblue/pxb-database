@@ -113,7 +113,7 @@ export const roadmap: RoadmapBucket[] = [
                 name: 'Simplification and Consolidation',
                 description: 'Consolidating code examples into a single repository',
                 year: 2020,
-                quarter: 'Q2',
+                quarter: 'Q3',
                 status: 'in-progress',
                 author: 'PX Blue',
                 applies: ['angular', 'ionic', 'react-native'],
