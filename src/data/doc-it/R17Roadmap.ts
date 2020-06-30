@@ -64,21 +64,29 @@ export const roadmap: RoadmapBucket[] = [
         applies: ['react-native'],
         items: [
             {
-                name: 'Layout Components',
-                description: 'Add components for basic screen layouts',
+                name: "List Item Tag",
+                description: "Add support for tags",
                 year: 2020,
-                quarter: 'Q3',
-                status: 'backlog',
-                author: 'PX Blue',
-            },
-            {
-                name: 'Selection Toolbar',
-                description: 'A new component for a toolbar with dropdown selector in the subtitle',
+                quarter: "Q3",
+                status: "backlog",
+                author: "PX Blue"
+              },
+              {
+                name: "Spacer",
+                description: "An invisible component that acts as a spacer element in various layouts.",
                 year: 2020,
-                quarter: 'Q3',
-                status: 'backlog',
-                author: 'PX Blue',
-            },
+                quarter: "Q3",
+                status: "backlog",
+                author: "PX Blue"
+              },
+              {
+                name: "User Menu",
+                description: "Add a component for dropdown menu from avatar",
+                year: 2020,
+                quarter: "Q3",
+                status: "backlog",
+                author: "PX Blue"
+              },
         ],
     },
     {
@@ -138,7 +146,7 @@ export const roadmap: RoadmapBucket[] = [
                 name: 'Angular Login & User Registration',
                 description: 'Shared login and sign-up experience across applications',
                 year: 2020,
-                quarter: 'Q3',
+                quarter: 'Q4',
                 status: 'backlog',
                 author: 'PX Blue',
                 applies: ['angular'],
