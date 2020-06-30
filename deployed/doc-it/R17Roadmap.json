@@ -22,6 +22,14 @@
         "quarter": "Q3",
         "status": "backlog",
         "author": "PX Blue"
+      },
+      {
+        "name": "Guages and Inputs",
+        "description": "Assorted input and guage components from IPM/Genepi",
+        "year": 2020,
+        "quarter": "Q3",
+        "status": "backlog",
+        "author": "Innersource"
       }
     ]
   },
@@ -50,16 +58,24 @@
     ],
     "items": [
       {
-        "name": "Layout Components",
-        "description": "Add components for basic screen layouts",
+        "name": "List Item Tag",
+        "description": "Add support for tags",
         "year": 2020,
         "quarter": "Q3",
         "status": "backlog",
         "author": "PX Blue"
       },
       {
-        "name": "Selection Toolbar",
-        "description": "A new component for a toolbar with dropdown selector in the subtitle",
+        "name": "Spacer",
+        "description": "An invisible component that acts as a spacer element in various layouts.",
+        "year": 2020,
+        "quarter": "Q3",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "User Menu",
+        "description": "Add a component for dropdown menu from avatar",
         "year": 2020,
         "quarter": "Q3",
         "status": "backlog",
@@ -103,7 +119,7 @@
         "name": "Simplification and Consolidation",
         "description": "Consolidating code examples into a single repository",
         "year": 2020,
-        "quarter": "Q2",
+        "quarter": "Q3",
         "status": "in-progress",
         "author": "PX Blue",
         "applies": [
@@ -136,7 +152,7 @@
         "name": "Angular Login & User Registration",
         "description": "Shared login and sign-up experience across applications",
         "year": 2020,
-        "quarter": "Q3",
+        "quarter": "Q4",
         "status": "backlog",
         "author": "PX Blue",
         "applies": [

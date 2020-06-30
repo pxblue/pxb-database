@@ -41,6 +41,15 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'backlog',
                 author: 'PX Blue',
             },
+            {
+                name: 'Guages and Inputs',
+                description: 'Assorted input and guage components from IPM/Genepi',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'backlog',
+                author: 'Innersource',
+
+            },
         ],
     },
     {
