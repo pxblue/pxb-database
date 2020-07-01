@@ -1,9 +1,9 @@
 const fs = require('fs');
-import { roadmap } from "./data/doc-it/R16Roadmap";
+import { roadmap } from "./data/doc-it/R17Roadmap";
 
 const entries: DataRecord[] = [
     {
-        collectionName: 'doc-it/R16Roadmap',
+        collectionName: 'doc-it/R17Roadmap',
         dataSource: roadmap
     }
 ];
