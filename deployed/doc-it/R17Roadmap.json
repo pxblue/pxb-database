@@ -94,7 +94,7 @@
         "name": "Designer Documentation",
         "description": "Expanded documentation for using PX Blue as a designer",
         "year": 2020,
-        "quarter": "Q2",
+        "quarter": "Q3",
         "status": "in-progress",
         "author": "PX Blue"
       },
@@ -172,7 +172,7 @@
         "name": "PX Blue CLI",
         "description": "CLI enhancements and templates",
         "year": 2020,
-        "quarter": "Q3",
+        "quarter": "Q4",
         "status": "backlog",
         "author": "PX Blue"
       }
