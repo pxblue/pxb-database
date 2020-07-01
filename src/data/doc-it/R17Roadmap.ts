@@ -171,7 +171,7 @@ export const roadmap: RoadmapBucket[] = [
                 name: 'PX Blue CLI',
                 description: 'CLI enhancements and templates',
                 year: 2020,
-                quarter: 'Q3',
+                quarter: 'Q4',
                 status: 'backlog',
                 author: 'PX Blue',
             },
