@@ -107,7 +107,7 @@ export const roadmap: RoadmapBucket[] = [
                 name: 'Designer Documentation',
                 description: 'Expanded documentation for using PX Blue as a designer',
                 year: 2020,
-                quarter: 'Q2',
+                quarter: 'Q3',
                 status: 'in-progress',
                 author: 'PX Blue',
             },
