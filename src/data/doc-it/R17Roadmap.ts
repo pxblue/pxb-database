@@ -29,7 +29,7 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Additional Material Components',
-                description: 'Add components for Chips, Sheets, Cards, Sliders, Snackbar, and Tooltip',
+                description: 'Add components for Chips, Bottom Sheet, Side Sheet, Cards, Sliders, Snackbar, and Tooltip',
                 year: 2020,
                 quarter: 'Q3',
                 status: 'backlog',
