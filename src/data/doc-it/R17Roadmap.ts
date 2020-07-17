@@ -198,7 +198,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'New format and content for design patterns',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -239,7 +239,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Shared login and sign-up experience across applications',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
                 framework: ['react'],
             },
