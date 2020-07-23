@@ -29,11 +29,12 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Additional Material Components',
-                description: 'Add components for Chips, Bottom Sheet, Side Sheet, Cards, Sliders, Snackbar, and Tooltip',
+                description:
+                    'Add components for Chips, Bottom Sheet, Side Sheet, Cards, Sliders, Snackbar, and Tooltip',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
-                author: 'PX Blue',
+                status: 'in-progress',
+                author: 'Innersource',
             },
             {
                 name: 'Info List Item',
@@ -111,7 +112,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a component for dropdown menu from avatar',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -119,7 +120,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -159,7 +160,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add support for tags',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -167,7 +168,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'An invisible component that acts as a spacer element in various layouts.',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
