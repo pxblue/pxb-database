@@ -112,7 +112,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a component for dropdown menu from avatar',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -120,7 +120,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -128,7 +128,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Assorted input and gauge components from IPM/Genepi',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'Innersource',
             },
         ],
@@ -144,7 +144,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
         ],
@@ -160,7 +160,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add support for tags',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -168,7 +168,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'An invisible component that acts as a spacer element in various layouts.',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
