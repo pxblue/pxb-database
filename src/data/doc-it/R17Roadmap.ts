@@ -69,8 +69,8 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'Selection Toolbar',
-                description: 'Add component for PX Blue Selection Toolbar',
+                name: 'Dropdown Toolbar',
+                description: 'Add component for PX Blue Dropdown Toolbar',
                 year: 2020,
                 quarter: 'Q3',
                 status: 'backlog',
@@ -116,7 +116,7 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'Selection Toolbar',
+                name: 'Dropdown Toolbar',
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q3',
@@ -140,7 +140,7 @@ export const roadmap: RoadmapBucket[] = [
         framework: ['react'],
         items: [
             {
-                name: 'Selection Toolbar',
+                name: 'Dropdown Toolbar',
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
                 year: 2020,
                 quarter: 'Q3',

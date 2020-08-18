@@ -45,8 +45,8 @@
         "author": "PX Blue"
       },
       {
-        "name": "Selection Toolbar",
-        "description": "Add component for PX Blue Selection Toolbar",
+        "name": "Dropdown Toolbar",
+        "description": "Add component for PX Blue Dropdown Toolbar",
         "year": 2020,
         "quarter": "Q3",
         "status": "backlog",
@@ -95,7 +95,7 @@
         "author": "PX Blue"
       },
       {
-        "name": "Selection Toolbar",
+        "name": "Dropdown Toolbar",
         "description": "A new component for a toolbar with dropdown selector in the subtitle",
         "year": 2020,
         "quarter": "Q3",
@@ -121,7 +121,7 @@
     ],
     "items": [
       {
-        "name": "Selection Toolbar",
+        "name": "Dropdown Toolbar",
         "description": "A new component for a toolbar with dropdown selector in the subtitle",
         "year": 2020,
         "quarter": "Q3",
