@@ -125,7 +125,7 @@
         "description": "A new component for a toolbar with dropdown selector in the subtitle",
         "year": 2020,
         "quarter": "Q3",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       }
     ]
@@ -231,7 +231,7 @@
         "description": "Shared login and sign-up experience across applications",
         "year": 2020,
         "quarter": "Q3",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue",
         "framework": [
           "react"
