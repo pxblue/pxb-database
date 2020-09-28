@@ -6,10 +6,10 @@
     "items": [
       {
         "name": "Additional Material Components",
-        "description": "Add components for Chips, Bottom Sheet, Side Sheet, Cards, Sliders, Snackbar, and Tooltip",
+        "description": "Add components for Chips, Bottom Sheet, Cards, Sliders, Snackbar, and Tooltip",
         "year": 2020,
         "quarter": "Q3",
-        "status": "in-progress",
+        "status": "finished",
         "author": "Innersource"
       },
       {
@@ -17,7 +17,7 @@
         "description": "Add component for PX Blue Info List Item",
         "year": 2020,
         "quarter": "Q3",
-        "status": "backlog",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -25,7 +25,7 @@
         "description": "Add component for PX Blue List Item Tag",
         "year": 2020,
         "quarter": "Q3",
-        "status": "backlog",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -33,7 +33,7 @@
         "description": "Add component for PX Blue Score Card",
         "year": 2020,
         "quarter": "Q3",
-        "status": "backlog",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -41,7 +41,7 @@
         "description": "Add component for PX Blue User Menu",
         "year": 2020,
         "quarter": "Q3",
-        "status": "backlog",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -49,7 +49,7 @@
         "description": "Add component for PX Blue Dropdown Toolbar",
         "year": 2020,
         "quarter": "Q3",
-        "status": "backlog",
+        "status": "deferred",
         "author": "PX Blue"
       }
     ]
@@ -107,7 +107,15 @@
         "description": "Assorted input and gauge components from IPM/Genepi",
         "year": 2020,
         "quarter": "Q3",
-        "status": "in-progress",
+        "status": "deferred",
+        "author": "Innersource"
+      },
+      {
+        "name": "Navigation Rail",
+        "description": "Condensed navigation drawer from IPM/Genepi",
+        "year": 2020,
+        "quarter": "Q3",
+        "status": "finished",
         "author": "Innersource"
       }
     ]
@@ -159,7 +167,7 @@
         "description": "Add a component for dropdown menu from avatar",
         "year": 2020,
         "quarter": "Q3",
-        "status": "backlog",
+        "status": "deferred",
         "author": "PX Blue"
       }
     ]
@@ -174,7 +182,7 @@
         "description": "Expanded documentation for using PX Blue as a designer",
         "year": 2020,
         "quarter": "Q3",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -182,7 +190,7 @@
         "description": "New format and content for design patterns",
         "year": 2020,
         "quarter": "Q3",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -190,7 +198,7 @@
         "description": "New content and guidelines around designing for websites",
         "year": 2020,
         "quarter": "Q4",
-        "status": "backlog",
+        "status": "finished",
         "author": "PX Blue"
       }
     ]
@@ -208,7 +216,7 @@
         "description": "Consolidating code examples into a single repository",
         "year": 2020,
         "quarter": "Q3",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue",
         "framework": [
           "angular",
