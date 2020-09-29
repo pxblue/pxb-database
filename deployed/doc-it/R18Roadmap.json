@@ -51,22 +51,6 @@
         "quarter": "Q4",
         "status": "backlog",
         "author": "PX Blue"
-      },
-      {
-        "name": "Design Patterns",
-        "description": "Reusable designs that commonly occur in applications",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Templates",
-        "description": "Presets available to speed up your designs",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
       }
     ]
   },
@@ -86,6 +70,14 @@
       {
         "name": "Search",
         "description": "Design templates for searching and filtering",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Templates",
+        "description": "Presets available to speed up your designs",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -119,19 +111,19 @@
         "author": "PX Blue"
       },
       {
-        "name": "Gauges and Inputs",
-        "description": "Assorted input and gauge components from IPM/Genepi",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "Innersource"
-      },
-      {
         "name": "Navigation Rail",
         "description": "Condensed navigation drawer from IPM/Genepi",
         "year": 2020,
         "quarter": "Q3",
         "status": "finished",
+        "author": "Innersource"
+      },
+      {
+        "name": "Gauges and Inputs",
+        "description": "Assorted input and gauge components from IPM/Genepi",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "deferred",
         "author": "Innersource"
       },
       {
@@ -191,7 +183,7 @@
         "description": "Add a component for dropdown menu from avatar",
         "year": 2020,
         "quarter": "Q4",
-        "status": "backlog",
+        "status": "deferred",
         "author": "PX Blue"
       }
     ]
@@ -227,7 +219,7 @@
       },
       {
         "name": "Design Patterns",
-        "description": "New design patterns",
+        "description": "New design patterns pages",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
