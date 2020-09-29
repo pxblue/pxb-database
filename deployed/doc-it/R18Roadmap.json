@@ -127,14 +127,6 @@
         "author": "PX Blue"
       },
       {
-        "name": "Selection Toolbar",
-        "description": "A new component for a toolbar with dropdown selector in the subtitle",
-        "year": 2020,
-        "quarter": "Q3",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
         "name": "User Menu",
         "description": "Add a component for dropdown menu from avatar",
         "year": 2020,
