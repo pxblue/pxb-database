@@ -21,10 +21,11 @@ type RoadmapBucket = {
     items: RoadmapItem[];
 };
 
+
 export const roadmap: RoadmapBucket[] = [
     {
-        "name": "Figma Stickersheet Resources",
-        "description": "New resources for designers",
+        name: 'Figma Stickersheet Components',
+        description: 'Updates to the components in the designer stickersheet',
         type: 'design',
         items: [
             {
@@ -38,6 +39,78 @@ export const roadmap: RoadmapBucket[] = [
             {
                 name: 'Templates',
                 description: 'Presets available to speed up your designs',
+                year: 2020,
+                quarter: 'Q4',
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Additional Material Components',
+                description:
+                    'Add components for Chips, Bottom Sheet, Cards, Sliders, Snackbar, and Tooltip',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'Innersource',
+            },
+            {
+                name: 'Info List Item',
+                description: 'Add component for PX Blue Info List Item',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'List Item Tag',
+                description: 'Add component for PX Blue List Item Tag',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Score Card',
+                description: 'Add component for PX Blue Score Card',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'User Menu',
+                description: 'Add component for PX Blue User Menu',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Dropdown Toolbar',
+                description: 'Add component for PX Blue Dropdown Toolbar',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'deferred',
+                author: 'PX Blue',
+            },
+        ],
+    },
+    {
+        name: 'Figma Design Patterns',
+        description: 'Adding design pattern examples to Figma',
+        type: 'design',
+        items: [
+            {
+                name: 'Login & Registration',
+                description: 'Design templates for Login and Registration workflows',
+                year: 2020,
+                quarter: 'Q4',
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Search',
+                description: 'Design templates for searching and filtering',
                 year: 2020,
                 quarter: 'Q4',
                 status: 'backlog',
@@ -59,6 +132,38 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'backlog',
                 author: 'PX Blue',
             },
+            {
+                name: 'User Menu',
+                description: 'Add a component for dropdown menu from avatar',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Dropdown Toolbar',
+                description: 'A new component for a toolbar with dropdown selector in the subtitle',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Gauges and Inputs',
+                description: 'Assorted input and gauge components from IPM/Genepi',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'deferred',
+                author: 'Innersource',
+            },
+            {
+                name: 'Navigation Rail',
+                description: 'Condensed navigation drawer from IPM/Genepi',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'Innersource',
+            },
         ],
     },
     {
@@ -66,7 +171,48 @@ export const roadmap: RoadmapBucket[] = [
         description: 'Reusable UI elements from @pxblue/react-components',
         type: 'development',
         framework: ['react'],
-        items: [],
+        items: [
+            {
+                name: 'Dropdown Toolbar',
+                description: 'A new component for a toolbar with dropdown selector in the subtitle',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+        ],
+    },
+    {
+        name: 'React Native Component Library',
+        description: 'Reusable UI elements from @pxblue/react-native-components',
+        type: 'development',
+        framework: ['react-native'],
+        items: [
+            {
+                name: 'List Item Tag',
+                description: 'Add support for tags',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Spacer',
+                description: 'An invisible component that acts as a spacer element in various layouts.',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'User Menu',
+                description: 'Add a component for dropdown menu from avatar',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'deferred',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'pxblue.github.io',
@@ -74,8 +220,32 @@ export const roadmap: RoadmapBucket[] = [
         type: 'design',
         items: [
             {
+                name: 'Designer Documentation',
+                description: 'Expanded documentation for using PX Blue as a designer',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
                 name: 'Design Patterns',
                 description: 'New format and content for design patterns',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Website Design Standards',
+                description: 'New content and guidelines around designing for websites',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Design Patterns',
+                description: 'New design patterns',
                 year: 2020,
                 quarter: 'Q4',
                 status: 'backlog',
@@ -84,11 +254,37 @@ export const roadmap: RoadmapBucket[] = [
         ],
     },
     {
+        name: 'Code Examples',
+        description: 'Basic code snippets showing how to implement various design patterns',
+        type: 'development',
+        framework: ['all'],
+        items: [
+            {
+                name: 'Simplification and Consolidation',
+                description: 'Consolidating code examples into a single repository',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+                framework: ['angular', 'ionic', 'react-native'],
+            },
+        ],
+    },
+    {
         name: 'Reusable Workflows',
         description: 'Components for implementing common workflows across applications',
         type: 'development',
-        framework: ['angular'],
+        framework: ['all'],
         items: [
+            {
+                name: 'React Login & User Registration',
+                description: 'Shared login and sign-up experience across applications',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'finished',
+                author: 'PX Blue',
+                framework: ['react'],
+            },
             {
                 name: 'Angular Login & User Registration',
                 description: 'Shared login and sign-up experience across applications',
