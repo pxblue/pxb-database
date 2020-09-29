@@ -5,22 +5,6 @@
     "type": "design",
     "items": [
       {
-        "name": "Design Patterns",
-        "description": "Reusable designs that commonly occur in applications",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Templates",
-        "description": "Presets available to speed up your designs",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
         "name": "Additional Material Components",
         "description": "Add components for Chips, Bottom Sheet, Cards, Sliders, Snackbar, and Tooltip",
         "year": 2020,
@@ -64,8 +48,24 @@
         "name": "Dropdown Toolbar",
         "description": "Add component for PX Blue Dropdown Toolbar",
         "year": 2020,
-        "quarter": "Q3",
-        "status": "deferred",
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Design Patterns",
+        "description": "Reusable designs that commonly occur in applications",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Templates",
+        "description": "Presets available to speed up your designs",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
         "author": "PX Blue"
       }
     ]
@@ -103,14 +103,6 @@
     ],
     "items": [
       {
-        "name": "Angular 10 Support",
-        "description": "Full compatibility of version 10 of the @angular component library",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
         "name": "User Menu",
         "description": "Add a component for dropdown menu from avatar",
         "year": 2020,
@@ -130,8 +122,8 @@
         "name": "Gauges and Inputs",
         "description": "Assorted input and gauge components from IPM/Genepi",
         "year": 2020,
-        "quarter": "Q3",
-        "status": "deferred",
+        "quarter": "Q4",
+        "status": "backlog",
         "author": "Innersource"
       },
       {
@@ -141,6 +133,14 @@
         "quarter": "Q3",
         "status": "finished",
         "author": "Innersource"
+      },
+      {
+        "name": "Angular 10 Support",
+        "description": "Full compatibility with version 10 of the @angular component library",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
       }
     ]
   },
@@ -190,8 +190,8 @@
         "name": "User Menu",
         "description": "Add a component for dropdown menu from avatar",
         "year": 2020,
-        "quarter": "Q3",
-        "status": "deferred",
+        "quarter": "Q4",
+        "status": "backlog",
         "author": "PX Blue"
       }
     ]
