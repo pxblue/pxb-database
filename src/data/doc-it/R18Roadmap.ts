@@ -117,6 +117,46 @@ export const roadmap: RoadmapBucket[] = [
         framework: ['angular', 'ionic'],
         items: [
             {
+                name: 'Drawer',
+                description: 'Add drawer components for navigation',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Info List Item',
+                description: 'Add support for multiline/wrapping title and automatic hover states',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'List Item Tag',
+                description: 'Add support for tags (within list items)',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Score Card',
+                description: 'Add a component for stylized cards',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Selection Toolbar',
+                description: 'A new component for a toolbar with dropdown selector in the subtitle',
+                year: 2020,
+                quarter: 'Q3',
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+            {
                 name: 'User Menu',
                 description: 'Add a component for dropdown menu from avatar',
                 year: 2020,
@@ -141,20 +181,20 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'Innersource',
             },
             {
-                name: 'Gauges and Inputs',
-                description: 'Assorted input and gauge components from IPM/Genepi',
-                year: 2020,
-                quarter: 'Q4',
-                status: 'deferred',
-                author: 'Innersource',
-            },
-            {
                 name: 'Angular 10 Support',
                 description: 'Full compatibility with version 10 of the @angular component library',
                 year: 2020,
                 quarter: 'Q4',
                 status: 'backlog',
                 author: 'PX Blue',
+            },
+            {
+                name: 'Gauges and Inputs',
+                description: 'Assorted input and gauge components from IPM/Genepi',
+                year: 2020,
+                quarter: 'Q4',
+                status: 'deferred',
+                author: 'Innersource',
             },
         ],
     },
@@ -164,6 +204,22 @@ export const roadmap: RoadmapBucket[] = [
         type: 'development',
         framework: ['react'],
         items: [
+            {
+                name: 'Info List Item',
+                description: 'Add support for multiline/wrapping title and automatic hover states',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
+                name: 'User Menu',
+                description: 'Add support for non-clickable menu items',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
             {
                 name: 'Dropdown Toolbar',
                 description: 'A new component for a toolbar with dropdown selector in the subtitle',
@@ -180,6 +236,14 @@ export const roadmap: RoadmapBucket[] = [
         type: 'development',
         framework: ['react-native'],
         items: [
+            {
+                name: 'Drawer',
+                description: 'Add a drawer component for navigation',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
             {
                 name: 'List Item Tag',
                 description: 'Add support for tags',
@@ -211,6 +275,14 @@ export const roadmap: RoadmapBucket[] = [
         description: 'The PX Blue documentation site',
         type: 'design',
         items: [
+            {
+                name: 'Downloadable Assets',
+                description: 'Add the ability to download designer assets through Figma',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
             {
                 name: 'Designer Documentation',
                 description: 'Expanded documentation for using PX Blue as a designer',
@@ -252,6 +324,14 @@ export const roadmap: RoadmapBucket[] = [
         framework: ['all'],
         items: [
             {
+                name: 'Enhanced Internationalization Support',
+                description: 'Updating our Internationalization examples to support additional languages and use recommended tools',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
+            {
                 name: 'Simplification and Consolidation',
                 description: 'Consolidating code examples into a single repository',
                 year: 2020,
@@ -268,6 +348,15 @@ export const roadmap: RoadmapBucket[] = [
         type: 'development',
         framework: ['all'],
         items: [
+            {
+                name: 'React Native Login & User Registration',
+                description: 'Shared login and sign-up experience across applications',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'Innersource',
+                framework: ['react-native'],
+            },
             {
                 name: 'React Login & User Registration',
                 description: 'Shared login and sign-up experience across applications',
@@ -294,6 +383,14 @@ export const roadmap: RoadmapBucket[] = [
         type: 'development',
         framework: ['all'],
         items: [
+            {
+                name: 'PX Blue CLI',
+                description: 'A command-line interface for starting new projects with automatic PX Blue integration',
+                year: 2020,
+                quarter: 'Q2',
+                status: 'finished',
+                author: 'PX Blue',
+            },
             {
                 name: 'PX Blue CLI',
                 description: 'CLI enhancements and templates',
