@@ -77,7 +77,7 @@
     "items": [
       {
         "name": "Login & Registration",
-        "description": "Design templates for Login and Registration workflows",
+        "description": "Designer templates / examples for Login and Registration workflows",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -85,15 +85,7 @@
       },
       {
         "name": "Search",
-        "description": "Design templates for searching and filtering",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Templates",
-        "description": "Presets available to speed up your designs",
+        "description": "Designer templates / examples for searching and filtering",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -101,7 +93,7 @@
       },
       {
         "name": "App Bar",
-        "description": "Add support for using App Bars",
+        "description": "Designer templates / examples for using App Bars",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -109,7 +101,7 @@
       },
       {
         "name": "Empty States",
-        "description": "Add support for using PX Blue Empty States",
+        "description": "Designer templates / examples for using Empty States",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -117,7 +109,7 @@
       },
       {
         "name": "Forms",
-        "description": "Add support for using forms",
+        "description": "Designer templates / examples for Forms",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -125,7 +117,7 @@
       },
       {
         "name": "Internationalization",
-        "description": "Add support for apps that require i18n",
+        "description": "Designer templates / examples for i18n",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -133,7 +125,7 @@
       },
       {
         "name": "Lists",
-        "description": "Add more common list examples",
+        "description": "Designer templates / examples for Lists",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -141,31 +133,7 @@
       },
       {
         "name": "Loading States",
-        "description": "Add support for designs that require loading states",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Navigation",
-        "description": "Add navigation design patterns",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Overlays",
-        "description": "Add more common overlay elements",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Steppers",
-        "description": "Add stepper design pattern",
+        "description": "Designer templates / examples for Loading States",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -173,15 +141,7 @@
       },
       {
         "name": "Visualization",
-        "description": "Add common visualizations",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Authentication",
-        "description": "Add screens required for supporting authentication",
+        "description": "Designer templates / examples for Visualizations",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -264,7 +224,7 @@
       },
       {
         "name": "Angular 10 Support",
-        "description": "Full compatibility with version 10 of the @angular component library",
+        "description": "Full compatibility with version 10 of Angular",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -273,6 +233,14 @@
       {
         "name": "Collapsible Appbar",
         "description": "A toolbar that condenses its content as a user scrolls down",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Pager",
+        "description": "Stepwise movement between multiple pages",
         "year": 2021,
         "quarter": "Q1",
         "status": "backlog",
@@ -310,6 +278,22 @@
         "year": 2020,
         "quarter": "Q3",
         "status": "finished",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Collapsible Appbar",
+        "description": "A toolbar that condenses its content as a user scrolls down",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Pager",
+        "description": "Stepwise movement between multiple pages",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
         "author": "PX Blue"
       }
     ]
@@ -403,7 +387,15 @@
       },
       {
         "name": "Design Patterns",
-        "description": "Design pattern updates for navigation, page layout, and visualizations",
+        "description": "New format and content for design patterns",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Iconography Page",
+        "description": "Reorganization of how to view and use PX Blue icons",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -436,6 +428,18 @@
         "author": "PX Blue",
         "framework": [
           "angular",
+          "ionic",
+          "react-native"
+        ]
+      },
+      {
+        "name": "Mobile Design Patterns",
+        "description": "Examples for User Menu, Drawer, and more",
+        "year": 2021,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
           "ionic",
           "react-native"
         ]
