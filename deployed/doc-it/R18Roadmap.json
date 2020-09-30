@@ -100,14 +100,6 @@
         "author": "PX Blue"
       },
       {
-        "name": "Empty States",
-        "description": "Designer templates / examples for using Empty States",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
         "name": "Forms",
         "description": "Designer templates / examples for Forms",
         "year": 2020,
@@ -240,7 +232,7 @@
       },
       {
         "name": "Pager",
-        "description": "Stepwise movement between multiple pages",
+        "description": "Stepwise movement between pages",
         "year": 2021,
         "quarter": "Q1",
         "status": "backlog",
@@ -290,7 +282,7 @@
       },
       {
         "name": "Pager",
-        "description": "Stepwise movement between multiple pages",
+        "description": "Stepwise movement between pages",
         "year": 2021,
         "quarter": "Q1",
         "status": "backlog",

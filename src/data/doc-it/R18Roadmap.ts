@@ -254,7 +254,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Pager',
-                description: 'Stepwise movement between multiple pages',
+                description: 'Stepwise movement between pages',
                 year: 2021,
                 quarter: 'Q1',
                 status: 'backlog',
@@ -302,7 +302,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Pager',
-                description: 'Stepwise movement between multiple pages',
+                description: 'Stepwise movement between pages',
                 year: 2021,
                 quarter: 'Q1',
                 status: 'backlog',
