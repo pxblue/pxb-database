@@ -204,6 +204,14 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'backlog',
                 author: 'PX Blue',
             },
+            {
+                name: 'Collapsible Appbar',
+                description: 'A toolbar that condenses its content as a user scrolls down',
+                year: 2021,
+                quarter: 'Q1',
+                status: 'backlog',
+                author: 'PX Blue',
+            },
         ],
     },
     {
@@ -276,6 +284,14 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'deferred',
                 author: 'PX Blue',
             },
+            {
+                name: 'User Menu',
+                description: 'Add a component for dropdown menu from avatar',
+                year: 2021,
+                quarter: 'Q1',
+                status: 'backlog',
+                author: 'PX Blue',
+            },
         ],
     },
     {
@@ -317,7 +333,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Design Patterns',
-                description: 'New design patterns pages',
+                description: 'Design pattern updates for navigation, page layout, and visualizations',
                 year: 2020,
                 quarter: 'Q4',
                 status: 'backlog',
