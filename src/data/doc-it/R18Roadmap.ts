@@ -125,14 +125,6 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'Empty States',
-                description: 'Designer templates / examples for using Empty States',
-                year: 2020,
-                quarter: 'Q4',
-                status: 'backlog',
-                author: 'PX Blue',
-            },
-            {
                 name: 'Forms',
                 description: 'Designer templates / examples for Forms',
                 year: 2020,
