@@ -300,14 +300,6 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'backlog',
                 author: 'PX Blue',
             },
-            {
-                name: 'Pager',
-                description: 'Stepwise movement between pages',
-                year: 2021,
-                quarter: 'Q1',
-                status: 'backlog',
-                author: 'PX Blue',
-            },
         ],
     },
     {
@@ -351,6 +343,14 @@ export const roadmap: RoadmapBucket[] = [
             {
                 name: 'User Menu',
                 description: 'Add a component for dropdown menu from avatar',
+                year: 2021,
+                quarter: 'Q1',
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Pager',
+                description: 'Stepwise movement between pages',
                 year: 2021,
                 quarter: 'Q1',
                 status: 'backlog',
@@ -438,9 +438,9 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Mobile Design Patterns',
-                description: 'Examples for User Menu, Drawer, and more',
+                description: 'Examples for Forms, Internationalization, and more',
                 year: 2021,
-                quarter: 'Q4',
+                quarter: 'Q1',
                 status: 'backlog',
                 author: 'PX Blue',
                 framework: ['ionic', 'react-native'],
