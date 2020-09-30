@@ -31,7 +31,7 @@ export const roadmap: RoadmapBucket[] = [
             {
                 name: 'Additional Material Components',
                 description:
-                    'Add components for Chips, Bottom Sheet, Cards, Sliders, Snackbar, and Tooltip',
+                    'Add components for Chips, Bottom Sheet, Cards, Sliders, Snackbar, Switches, Avatars, FABS, and Tooltip',
                 year: 2020,
                 quarter: 'Q3',
                 status: 'finished',
@@ -74,15 +74,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add component for PX Blue Dropdown Toolbar',
                 year: 2020,
                 quarter: 'Q3',
-                status: 'deferred',
-                author: 'PX Blue',
-            },
-            {
-                name: 'Dropdown Toolbar',
-                description: 'Add component for PX Blue Dropdown Toolbar',
-                year: 2020,
-                quarter: 'Q4',
-                status: 'backlog',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
