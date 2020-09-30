@@ -142,7 +142,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Forms',
-                description: 'Add support for using Forms',
+                description: 'Add support for using forms',
                 year: 2020,
                 quarter: 'Q4',
                 status: 'backlog',
@@ -150,7 +150,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Internationalization',
-                description: 'Add support for designing screens that support i18n',
+                description: 'Add support for apps that require i18n',
                 year: 2020,
                 quarter: 'Q4',
                 status: 'backlog',
