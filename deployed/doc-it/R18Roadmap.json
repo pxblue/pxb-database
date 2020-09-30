@@ -48,6 +48,22 @@
         "name": "Dropdown Toolbar",
         "description": "Add component for PX Blue Dropdown Toolbar",
         "year": 2020,
+        "quarter": "Q3",
+        "status": "deferred",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Dropdown Toolbar",
+        "description": "Add component for PX Blue Dropdown Toolbar",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Additional Material Components",
+        "description": "Add component for dialogs, menus, and side sheets",
+        "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
         "author": "PX Blue"
@@ -78,6 +94,94 @@
       {
         "name": "Templates",
         "description": "Presets available to speed up your designs",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "App Bar",
+        "description": "Add support for using App Bars",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Empty States",
+        "description": "Add support for using PX Blue Empty States",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Forms",
+        "description": "Add support for using forms",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Internationalization",
+        "description": "Add support for apps that require i18n",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Lists",
+        "description": "Add more common list examples",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Loading States",
+        "description": "Add support for designs that require loading states",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Navigation",
+        "description": "Add navigation design patterns",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Overlays",
+        "description": "Add more common overlay elements",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Steppers",
+        "description": "Add stepper design pattern",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Visualization",
+        "description": "Add common visualizations",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Authentication",
+        "description": "Add screens required for supporting authentication",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
@@ -151,10 +255,26 @@
         "author": "Innersource"
       },
       {
+        "name": "Gauges and Inputs",
+        "description": "Assorted input and gauge components from IPM/Genepi",
+        "year": 2020,
+        "quarter": "Q3",
+        "status": "deferred",
+        "author": "Innersource"
+      },
+      {
         "name": "Angular 10 Support",
         "description": "Full compatibility with version 10 of the @angular component library",
         "year": 2020,
         "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Collapsible Appbar",
+        "description": "A toolbar that condenses its content as a user scrolls down",
+        "year": 2021,
+        "quarter": "Q1",
         "status": "backlog",
         "author": "PX Blue"
       }
@@ -225,6 +345,22 @@
         "quarter": "Q3",
         "status": "finished",
         "author": "PX Blue"
+      },
+      {
+        "name": "User Menu",
+        "description": "Add a component for dropdown menu from avatar",
+        "year": 2020,
+        "quarter": "Q3",
+        "status": "deferred",
+        "author": "PX Blue"
+      },
+      {
+        "name": "User Menu",
+        "description": "Add a component for dropdown menu from avatar",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
       }
     ]
   },
@@ -267,7 +403,7 @@
       },
       {
         "name": "Design Patterns",
-        "description": "New design patterns pages",
+        "description": "Design pattern updates for navigation, page layout, and visualizations",
         "year": 2020,
         "quarter": "Q4",
         "status": "backlog",
