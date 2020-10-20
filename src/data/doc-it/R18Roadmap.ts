@@ -42,7 +42,7 @@ export const roadmap: RoadmapBucket[] = [
                 year: 2020,
                 quarter: 'Q3',
                 status: 'finished',
-                author: 'PX Blue',
+                author: 'Innersource',
             },
             {
                 name: 'List Item Tag',
@@ -66,7 +66,7 @@ export const roadmap: RoadmapBucket[] = [
                 year: 2020,
                 quarter: 'Q3',
                 status: 'finished',
-                author: 'PX Blue',
+                author: 'Innersource',
             },
             {
                 name: 'Dropdown Toolbar',
@@ -82,7 +82,7 @@ export const roadmap: RoadmapBucket[] = [
                 year: 2020,
                 quarter: 'Q4',
                 status: 'in-progress',
-                author: 'PX Blue',
+                author: 'Innersource',
             },
         ],
     },
