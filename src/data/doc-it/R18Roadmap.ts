@@ -21,7 +21,6 @@ type RoadmapBucket = {
     items: RoadmapItem[];
 };
 
-
 export const roadmap: RoadmapBucket[] = [
     {
         name: 'Figma Stickersheet Components',
@@ -43,7 +42,7 @@ export const roadmap: RoadmapBucket[] = [
                 year: 2020,
                 quarter: 'Q3',
                 status: 'finished',
-                author: 'PX Blue',
+                author: 'Innersource',
             },
             {
                 name: 'List Item Tag',
@@ -67,7 +66,7 @@ export const roadmap: RoadmapBucket[] = [
                 year: 2020,
                 quarter: 'Q3',
                 status: 'finished',
-                author: 'PX Blue',
+                author: 'Innersource',
             },
             {
                 name: 'Dropdown Toolbar',
@@ -82,8 +81,8 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add component for dialogs, menus, and side sheets',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
-                author: 'PX Blue',
+                status: 'in-progress',
+                author: 'Innersource',
             },
         ],
     },
@@ -121,7 +120,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for Forms',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -137,7 +136,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for Lists',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -233,7 +232,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Full compatibility with version 10 of Angular',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -400,7 +399,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Reorganization of how to view and use PX Blue icons',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
         ],
@@ -413,7 +412,8 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Enhanced Internationalization Support',
-                description: 'Updating our Internationalization examples to support additional languages and use recommended tools',
+                description:
+                    'Updating our Internationalization examples to support additional languages and use recommended tools',
                 year: 2020,
                 quarter: 'Q2',
                 status: 'finished',
@@ -468,7 +468,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Shared login and sign-up experience across applications',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
                 framework: ['angular'],
             },
