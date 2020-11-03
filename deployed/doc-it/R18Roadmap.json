@@ -57,7 +57,7 @@
         "description": "Add component for dialogs, menus, and side sheets",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "pre-release",
         "author": "Innersource"
       }
     ]
@@ -112,7 +112,7 @@
         "description": "Designer templates / examples for Lists",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "pre-release",
         "author": "PX Blue"
       },
       {
@@ -211,7 +211,15 @@
         "description": "Full compatibility with version 10 of Angular",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "pre-release",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Mobile Stepper",
+        "description": "A progress indicator when completing a workflow",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "pre-release",
         "author": "PX Blue"
       },
       {
