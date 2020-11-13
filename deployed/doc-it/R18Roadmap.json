@@ -57,7 +57,7 @@
         "description": "Add component for dialogs, menus, and side sheets",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "pre-release",
         "author": "Innersource"
       }
     ]
@@ -96,7 +96,7 @@
         "description": "Designer templates / examples for Forms",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "pre-release",
         "author": "PX Blue"
       },
       {
@@ -112,7 +112,7 @@
         "description": "Designer templates / examples for Lists",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "pre-release",
         "author": "PX Blue"
       },
       {
@@ -211,7 +211,15 @@
         "description": "Full compatibility with version 10 of Angular",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "pre-release",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Mobile Stepper",
+        "description": "A progress indicator when completing a workflow",
+        "year": 2020,
+        "quarter": "Q4",
+        "status": "pre-release",
         "author": "PX Blue"
       },
       {
@@ -382,7 +390,7 @@
         "description": "Reorganization of how to view and use PX Blue icons",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       }
     ]
@@ -494,7 +502,7 @@
         "description": "CLI enhancements and templates",
         "year": 2020,
         "quarter": "Q4",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue"
       }
     ]
