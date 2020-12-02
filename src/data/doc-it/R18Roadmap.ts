@@ -96,7 +96,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for Login and Registration workflows',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -112,7 +112,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for using App Bars',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -399,7 +399,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'New format and content for design patterns',
                 year: 2020,
                 quarter: 'Q4',
-                status: 'backlog',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
