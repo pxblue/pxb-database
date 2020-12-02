@@ -84,6 +84,14 @@ export const roadmap: RoadmapBucket[] = [
                 status: 'pre-release',
                 author: 'Innersource',
             },
+            {
+                name: 'Component variants and auto-layout',
+                description: 'Update existing components using the new Figma variants and auto-layout',
+                year: 2020,
+                quarter: 'Q4',
+                status: 'in-progress',
+                author: 'PX Blue',
+            },
         ],
     },
     {
