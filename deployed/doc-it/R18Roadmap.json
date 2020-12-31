@@ -57,7 +57,7 @@
         "description": "Add component for dialogs, menus, and side sheets",
         "year": 2020,
         "quarter": "Q4",
-        "status": "pre-release",
+        "status": "finished",
         "author": "Innersource"
       },
       {
@@ -65,7 +65,7 @@
         "description": "Update existing components using the new Figma variants and auto-layout",
         "year": 2020,
         "quarter": "Q4",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       }
     ]
@@ -104,7 +104,7 @@
         "description": "Designer templates / examples for Forms",
         "year": 2020,
         "quarter": "Q4",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -120,7 +120,7 @@
         "description": "Designer templates / examples for Lists",
         "year": 2020,
         "quarter": "Q4",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -473,7 +473,7 @@
         "description": "Shared login and sign-up experience across applications",
         "year": 2020,
         "quarter": "Q4",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue",
         "framework": [
           "angular"
