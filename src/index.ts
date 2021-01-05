@@ -3,7 +3,7 @@ import { roadmap } from "./data/doc-it/R18Roadmap";
 
 const entries: DataRecord[] = [
     {
-        collectionName: 'doc-it/R18Roadmap',
+        collectionName: 'doc-it/R19Roadmap',
         dataSource: roadmap
     }
 ];
