@@ -1,12 +1,20 @@
 [
   {
-    "name": "Figma Stickersheet Components",
+    "name": "Figma Component Library",
     "description": "Updates to the components in the designer stickersheet",
     "type": "design",
     "items": [
       {
+        "name": "Dark Theme for Components",
+        "description": "Dark theme variations for all of our design components",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
         "name": "Additional Material Components",
-        "description": "Add components for Chips, Bottom Sheet, Cards, Sliders, Snackbar, Switches, Avatars, FABS, and Tooltip",
+        "description": "Add components for Chips, Bottom Sheet, Cards, Sliders, Snackbar, Switches, Avatars, FABs, and Tooltip",
         "year": 2020,
         "quarter": "Q3",
         "status": "finished",
@@ -75,6 +83,70 @@
     "description": "Adding design pattern examples to Figma",
     "type": "design",
     "items": [
+      {
+        "name": "Login & Registration",
+        "description": "Designer templates / examples for Login and Registration workflows",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Search",
+        "description": "Designer templates / examples for searching and filtering",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "App Bar",
+        "description": "Designer templates / examples for using App Bars",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Loading States",
+        "description": "Designer templates / examples for Loading States",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Internationalization",
+        "description": "Designer templates / examples for i18n",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Overlays",
+        "description": "Designer templates / examples for dialogs and overlays",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Visualization",
+        "description": "Designer templates / examples for Visualizations",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Steppers",
+        "description": "Designer templates / examples for Steppers",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
       {
         "name": "Login & Registration",
         "description": "Designer templates / examples for Login and Registration workflows",
@@ -150,6 +222,14 @@
       "ionic"
     ],
     "items": [
+      {
+        "name": "Collapsible App Bar",
+        "description": "Add an app bar component that shrinks and condenses its content on scroll",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
       {
         "name": "Drawer",
         "description": "Add drawer components for navigation",
@@ -249,6 +329,22 @@
     ],
     "items": [
       {
+        "name": "Navigation Rail",
+        "description": "Condensed navigation drawer",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Collapsible App Bar",
+        "description": "Add an app bar component that shrinks and condenses its content on scroll",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
         "name": "Info List Item",
         "description": "Add support for multiline/wrapping title and automatic hover states",
         "year": 2020,
@@ -291,6 +387,38 @@
     ],
     "items": [
       {
+        "name": "Mobile Stepper",
+        "description": "Add an component for stepping between pages",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "User Menu",
+        "description": "Add a component for dropdown menu from avatar",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Collapsible App Bar",
+        "description": "Add an app bar component that shrinks and condenses its content on scroll",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Expandable Bottomsheet",
+        "description": "Add an bottomsheet that can be expanded when swiped up",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
         "name": "Drawer",
         "description": "Add a drawer component for navigation",
         "year": 2020,
@@ -321,22 +449,6 @@
         "quarter": "Q3",
         "status": "deferred",
         "author": "PX Blue"
-      },
-      {
-        "name": "User Menu",
-        "description": "Add a component for dropdown menu from avatar",
-        "year": 2021,
-        "quarter": "Q1",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Mobile Stepper",
-        "description": "Stepwise movement between pages",
-        "year": 2021,
-        "quarter": "Q1",
-        "status": "backlog",
-        "author": "PX Blue"
       }
     ]
   },
@@ -345,6 +457,14 @@
     "description": "The PX Blue documentation site",
     "type": "design",
     "items": [
+      {
+        "name": "Updated Theme Documentation",
+        "description": "Updated content around the usage of dark themes",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
       {
         "name": "Downloadable Assets",
         "description": "Add the ability to download designer assets through Figma",
@@ -404,6 +524,30 @@
     ],
     "items": [
       {
+        "name": "Internationalization Pattern",
+        "description": "Examples of performing internationalization",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
+          "ionic",
+          "react-native"
+        ]
+      },
+      {
+        "name": "Form Validation Pattern",
+        "description": "Examples for performing form validation",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
+          "ionic",
+          "react-native"
+        ]
+      },
+      {
         "name": "Enhanced Internationalization Support",
         "description": "Updating our Internationalization examples to support additional languages and use recommended tools",
         "year": 2020,
@@ -423,18 +567,6 @@
           "ionic",
           "react-native"
         ]
-      },
-      {
-        "name": "Mobile Design Patterns",
-        "description": "Examples for Forms, Internationalization, and more",
-        "year": 2021,
-        "quarter": "Q1",
-        "status": "backlog",
-        "author": "PX Blue",
-        "framework": [
-          "ionic",
-          "react-native"
-        ]
       }
     ]
   },
@@ -446,6 +578,39 @@
       "all"
     ],
     "items": [
+      {
+        "name": "React Native Login & User Registration",
+        "description": "Updates for customization of contents",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
+          "react-native"
+        ]
+      },
+      {
+        "name": "React Login & User Registration",
+        "description": "Updates for customization of contents",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
+          "react"
+        ]
+      },
+      {
+        "name": "Angular Login & User Registration",
+        "description": "Updates for customization of contents",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
+          "angular"
+        ]
+      },
       {
         "name": "React Native Login & User Registration",
         "description": "Shared login and sign-up experience across applications",
@@ -482,6 +647,39 @@
     ]
   },
   {
+    "name": "Themes",
+    "description": "Styles and colors for applications",
+    "type": "development",
+    "framework": [
+      "all"
+    ],
+    "items": [
+      {
+        "name": "Dark Theme Updates",
+        "description": "Updated styles for the dark theme",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
+          "angular",
+          "react"
+        ]
+      },
+      {
+        "name": "React Native Dark Theme",
+        "description": "Build a new dark theme for React Native projects",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
+          "react-native"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Utilities",
     "description": "Assorted tools for helping you work faster",
     "type": "development",
@@ -489,6 +687,38 @@
       "all"
     ],
     "items": [
+      {
+        "name": "Video Tutorials",
+        "description": "Video tutorials showing how to use PX Blue tools & resources",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "PX Blue CLI - Angular",
+        "description": "Angular project templates for the CLI",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "PX Blue CLI - React Native",
+        "description": "React Native project templates for the CLI",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "PX Blue CLI - Ionic",
+        "description": "Ionic project templates for the CLI",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
       {
         "name": "PX Blue CLI",
         "description": "A command-line interface for starting new projects with automatic PX Blue integration",
