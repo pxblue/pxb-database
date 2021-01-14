@@ -309,14 +309,6 @@
         "quarter": "Q4",
         "status": "finished",
         "author": "PX Blue"
-      },
-      {
-        "name": "Collapsible Appbar",
-        "description": "A toolbar that condenses its content as a user scrolls down",
-        "year": 2021,
-        "quarter": "Q1",
-        "status": "backlog",
-        "author": "PX Blue"
       }
     ]
   },
@@ -366,14 +358,6 @@
         "year": 2020,
         "quarter": "Q3",
         "status": "finished",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Collapsible Appbar",
-        "description": "A toolbar that condenses its content as a user scrolls down",
-        "year": 2021,
-        "quarter": "Q1",
-        "status": "backlog",
         "author": "PX Blue"
       }
     ]
