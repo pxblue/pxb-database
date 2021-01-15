@@ -345,7 +345,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Condensed navigation drawer',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -393,7 +393,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add an component for stepping between pages',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -668,7 +668,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Angular project templates for the CLI',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -676,7 +676,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'React Native project templates for the CLI',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
