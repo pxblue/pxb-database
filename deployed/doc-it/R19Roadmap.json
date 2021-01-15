@@ -325,7 +325,7 @@
         "description": "Condensed navigation drawer",
         "year": 2021,
         "quarter": "Q1",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue"
       },
       {
@@ -375,7 +375,7 @@
         "description": "Add an component for stepping between pages",
         "year": 2021,
         "quarter": "Q1",
-        "status": "backlog",
+        "status": "pre-release",
         "author": "PX Blue"
       },
       {
@@ -684,7 +684,7 @@
         "description": "Angular project templates for the CLI",
         "year": 2021,
         "quarter": "Q1",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue"
       },
       {
@@ -692,7 +692,7 @@
         "description": "React Native project templates for the CLI",
         "year": 2021,
         "quarter": "Q1",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue"
       },
       {
