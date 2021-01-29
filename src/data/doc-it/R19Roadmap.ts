@@ -401,7 +401,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a component for dropdown menu from avatar',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'in-progress',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
