@@ -468,7 +468,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'User Menu Design Pattern',
-                description: 'Add documentations about the usage of a user menu',
+                description: 'Add documentation about the usage of a user menu',
                 year: 2021,
                 quarter: 'Q1',
                 status: 'in-progress',
@@ -691,7 +691,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Ionic project templates for the CLI',
                 year: 2021,
                 quarter: 'Q2',
-                status: 'in-progress',
+                status: 'backlog',
                 author: 'PX Blue',
             },
             {
