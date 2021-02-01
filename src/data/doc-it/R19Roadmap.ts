@@ -475,14 +475,6 @@ export const roadmap: RoadmapBucket[] = [
                 author: 'PX Blue',
             },
             {
-                name: 'Updated List and Table Design Pattern',
-                description: 'Update content around the usage of lists and tables',
-                year: 2021,
-                quarter: 'Q1',
-                status: 'in-progress',
-                author: 'PX Blue',
-            },
-            {
                 name: 'Downloadable Assets',
                 description: 'Add the ability to download designer assets through Figma',
                 year: 2020,
