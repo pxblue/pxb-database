@@ -446,7 +446,15 @@
         "description": "Updated content around the usage of dark themes",
         "year": 2021,
         "quarter": "Q1",
-        "status": "backlog",
+        "status": "in-progress",
+        "author": "PX Blue"
+      },
+      {
+        "name": "User Menu Design Pattern",
+        "description": "Add documentation about the usage of a user menu",
+        "year": 2021,
+        "quarter": "Q1",
+        "status": "in-progress",
         "author": "PX Blue"
       },
       {
