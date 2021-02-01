@@ -137,7 +137,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for Loading States',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'pre-release',
+                status: 'backlog',
                 author: 'PX Blue',
             },
             {
@@ -182,7 +182,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Search',
-                description: 'Designer templates / examples for searching and filtering',
+                description: 'Designer templates / examples for searching',
                 year: 2020,
                 quarter: 'Q4',
                 status: 'deferred',
