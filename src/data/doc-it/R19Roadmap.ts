@@ -29,8 +29,7 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Dark Theme for Components',
-                description:
-                    'Dark theme variations for all of our design components',
+                description: 'Dark theme variations for all of our design components',
                 year: 2021,
                 quarter: 'Q2',
                 status: 'backlog',
@@ -118,10 +117,10 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Search',
-                description: 'Designer templates / examples for searching and filtering',
+                description: 'Designer templates / examples for searching',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -145,7 +144,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for i18n',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -182,7 +181,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Search',
-                description: 'Designer templates / examples for searching and filtering',
+                description: 'Designer templates / examples for searching',
                 year: 2020,
                 quarter: 'Q4',
                 status: 'deferred',
@@ -345,7 +344,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Condensed navigation drawer',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'in-progress',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -401,7 +400,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a component for dropdown menu from avatar',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -464,7 +463,15 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Updated content around the usage of dark themes',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
+                author: 'PX Blue',
+            },
+            {
+                name: 'User Menu Design Pattern',
+                description: 'Add documentation about the usage of a user menu',
+                year: 2021,
+                quarter: 'Q1',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -590,7 +597,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Updates for customization of contents',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
                 framework: ['angular'],
             },
@@ -668,7 +675,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Angular project templates for the CLI',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
