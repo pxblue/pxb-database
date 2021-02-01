@@ -118,7 +118,7 @@ export const roadmap: RoadmapBucket[] = [
             },
             {
                 name: 'Search',
-                description: 'Designer templates / examples for searching and filtering',
+                description: 'Designer templates / examples for searching',
                 year: 2021,
                 quarter: 'Q1',
                 status: 'pre-release',
@@ -668,7 +668,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Angular project templates for the CLI',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
