@@ -29,8 +29,7 @@ export const roadmap: RoadmapBucket[] = [
         items: [
             {
                 name: 'Dark Theme for Components',
-                description:
-                    'Dark theme variations for all of our design components',
+                description: 'Dark theme variations for all of our design components',
                 year: 2021,
                 quarter: 'Q2',
                 status: 'backlog',
@@ -464,7 +463,23 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Updated content around the usage of dark themes',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
+                author: 'PX Blue',
+            },
+            {
+                name: 'User Menu Design Pattern',
+                description: 'Add documentations about the usage of a user menu',
+                year: 2021,
+                quarter: 'Q1',
+                status: 'in-progress',
+                author: 'PX Blue',
+            },
+            {
+                name: 'Updated List and Table Design Pattern',
+                description: 'Update content around the usage of lists and tables',
+                year: 2021,
+                quarter: 'Q1',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -684,7 +699,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Ionic project templates for the CLI',
                 year: 2021,
                 quarter: 'Q2',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
