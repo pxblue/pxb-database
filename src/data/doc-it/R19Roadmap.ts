@@ -650,7 +650,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Build a new dark theme for React Native projects',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'pre-release',
                 author: 'PX Blue',
                 framework: ['react-native'],
             },
