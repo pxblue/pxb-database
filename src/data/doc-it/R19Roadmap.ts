@@ -344,7 +344,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Condensed navigation drawer',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -392,7 +392,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add an component for stepping between pages',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -400,7 +400,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a component for dropdown menu from avatar',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -650,7 +650,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Build a new dark theme for React Native projects',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'pre-release',
                 author: 'PX Blue',
                 framework: ['react-native'],
             },
