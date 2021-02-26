@@ -152,7 +152,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for dialogs and overlays',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -471,7 +471,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add documentation about the usage of a user menu',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -641,7 +641,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Updated styles for the dark theme',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
                 framework: ['angular', 'react'],
             },
@@ -683,7 +683,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'React Native project templates for the CLI',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'in-progress',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
