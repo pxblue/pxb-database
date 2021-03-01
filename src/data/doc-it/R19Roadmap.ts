@@ -667,7 +667,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Video tutorials showing how to use PX Blue tools & resources',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
