@@ -160,7 +160,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for Visualizations',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -168,7 +168,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for Steppers',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
@@ -588,7 +588,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Updates for customization of contents',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
                 framework: ['react'],
             },
