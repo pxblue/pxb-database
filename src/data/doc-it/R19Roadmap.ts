@@ -471,7 +471,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add documentation about the usage of a user menu',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'finished',
+                status: 'pre-release',
                 author: 'PX Blue',
             },
             {
@@ -683,7 +683,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'React Native project templates for the CLI',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
