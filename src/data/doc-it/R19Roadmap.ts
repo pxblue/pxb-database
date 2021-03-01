@@ -112,7 +112,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Designer templates / examples for Login and Registration workflows',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
             {
