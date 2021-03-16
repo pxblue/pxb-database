@@ -535,7 +535,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Examples of performing internationalization',
                 year: 2021,
                 quarter: 'Q1',
-                status: 'in-progress',
+                status: 'deferred',
                 author: 'PX Blue',
                 framework: ['ionic', 'react-native'],
             },
