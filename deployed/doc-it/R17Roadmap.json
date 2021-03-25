@@ -58,24 +58,7 @@
     "name": "Figma Design Patterns",
     "description": "Adding design pattern examples to Figma",
     "type": "design",
-    "items": [
-      {
-        "name": "Login & Registration",
-        "description": "Design templates for Login and Registration workflows",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      },
-      {
-        "name": "Search",
-        "description": "Design templates for searching and filtering",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      }
-    ]
+    "items": []
   },
   {
     "name": "Angular Component Library",
@@ -192,14 +175,6 @@
         "quarter": "Q3",
         "status": "finished",
         "author": "PX Blue"
-      },
-      {
-        "name": "Website Design Standards",
-        "description": "New content and guidelines around designing for websites",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "finished",
-        "author": "PX Blue"
       }
     ]
   },
@@ -244,17 +219,6 @@
         "framework": [
           "react"
         ]
-      },
-      {
-        "name": "Angular Login & User Registration",
-        "description": "Shared login and sign-up experience across applications",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue",
-        "framework": [
-          "angular"
-        ]
       }
     ]
   },
@@ -265,15 +229,6 @@
     "framework": [
       "all"
     ],
-    "items": [
-      {
-        "name": "PX Blue CLI",
-        "description": "CLI enhancements and templates",
-        "year": 2020,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      }
-    ]
+    "items": []
   }
 ]
