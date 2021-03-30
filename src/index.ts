@@ -1,11 +1,43 @@
 const fs = require('fs');
-import { roadmap } from "./data/doc-it/R19Roadmap";
+import { roadmap as R21 } from "./data/doc-it/R21Roadmap";
+import { roadmap as R20 } from "./data/doc-it/R20Roadmap";
+import { roadmap as R19 } from "./data/doc-it/R19Roadmap";
+import { roadmap as R18 } from "./data/doc-it/R18Roadmap";
+import { roadmap as R17 } from "./data/doc-it/R17Roadmap";
+import { roadmap as R16 } from "./data/doc-it/R16Roadmap";
+
+type DataRecord = {
+    collectionName: string;
+    dataSource: any;
+}
 
 const entries: DataRecord[] = [
     {
+        collectionName: 'doc-it/R21Roadmap',
+        dataSource: R21
+    },
+    {
+        collectionName: 'doc-it/R20Roadmap',
+        dataSource: R20
+    },
+    {
         collectionName: 'doc-it/R19Roadmap',
-        dataSource: roadmap
+        dataSource: R19
+    },
+    {
+        collectionName: 'doc-it/R18Roadmap',
+        dataSource: R18
+    },
+    {
+        collectionName: 'doc-it/R17Roadmap',
+        dataSource: R17
+    },
+    {
+        collectionName: 'doc-it/R16Roadmap',
+        dataSource: R16
     }
+
+
 ];
 
 for (const entry of entries) {
@@ -18,7 +50,3 @@ for (const entry of entries) {
     });
 }
 
-type DataRecord = {
-    collectionName: string;
-    dataSource: any;
-}
