@@ -15,7 +15,7 @@
         "description": "Designer templates / examples for Login and Registration workflows",
         "year": 2021,
         "quarter": "Q1",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -23,7 +23,7 @@
         "description": "Designer templates / examples for searching",
         "year": 2021,
         "quarter": "Q1",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -31,7 +31,7 @@
         "description": "Designer templates / examples for using App Bars",
         "year": 2021,
         "quarter": "Q1",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -39,7 +39,7 @@
         "description": "Designer templates / examples for Loading States",
         "year": 2021,
         "quarter": "Q1",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -47,7 +47,7 @@
         "description": "Designer templates / examples for i18n",
         "year": 2021,
         "quarter": "Q1",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -55,7 +55,7 @@
         "description": "Designer templates / examples for dialogs and overlays",
         "year": 2021,
         "quarter": "Q1",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -63,7 +63,7 @@
         "description": "Designer templates / examples for Visualizations",
         "year": 2021,
         "quarter": "Q1",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -71,7 +71,7 @@
         "description": "Designer templates / examples for Steppers",
         "year": 2021,
         "quarter": "Q1",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       }
     ]
@@ -140,7 +140,7 @@
         "description": "Updated content around the usage of dark themes",
         "year": 2021,
         "quarter": "Q1",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -178,7 +178,7 @@
         "description": "Examples for performing form validation",
         "year": 2021,
         "quarter": "Q1",
-        "status": "in-progress",
+        "status": "deferred",
         "author": "PX Blue",
         "framework": [
           "ionic",
@@ -200,7 +200,7 @@
         "description": "Updates for customization of contents",
         "year": 2021,
         "quarter": "Q1",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue",
         "framework": [
           "react-native"
@@ -211,7 +211,7 @@
         "description": "Updates for customization of contents",
         "year": 2021,
         "quarter": "Q1",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue",
         "framework": [
           "react"
@@ -222,7 +222,7 @@
         "description": "Updates for customization of contents",
         "year": 2021,
         "quarter": "Q1",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue",
         "framework": [
           "angular"
@@ -243,7 +243,7 @@
         "description": "Updated styles for the dark theme",
         "year": 2021,
         "quarter": "Q1",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue",
         "framework": [
           "angular",
@@ -255,7 +255,7 @@
         "description": "Build a new dark theme for React Native projects",
         "year": 2021,
         "quarter": "Q1",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue",
         "framework": [
           "react-native"
@@ -276,7 +276,7 @@
         "description": "Video tutorials showing how to use PX Blue tools & resources",
         "year": 2021,
         "quarter": "Q1",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
