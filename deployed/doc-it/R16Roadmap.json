@@ -12,7 +12,7 @@
         "description": "Add drawer components for navigation",
         "year": 2020,
         "quarter": "Q2",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -20,7 +20,7 @@
         "description": "Add support for multiline/wrapping title and automatic hover states",
         "year": 2020,
         "quarter": "Q2",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -28,7 +28,7 @@
         "description": "Add support for tags (within list items)",
         "year": 2020,
         "quarter": "Q2",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -36,7 +36,7 @@
         "description": "Add a component for stylized cards",
         "year": 2020,
         "quarter": "Q2",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       }
     ]
@@ -86,7 +86,7 @@
         "description": "Add a drawer component for navigation",
         "year": 2020,
         "quarter": "Q2",
-        "status": "pre-release",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -119,7 +119,7 @@
         "description": "Expanded documentation for using PX Blue as a designer",
         "year": 2020,
         "quarter": "Q2",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -152,7 +152,7 @@
         "description": "Consolidating code examples into a single repository",
         "year": 2020,
         "quarter": "Q2",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       },
       {
@@ -177,7 +177,7 @@
         "description": "Shared login and sign-up experience across applications",
         "year": 2020,
         "quarter": "Q2",
-        "status": "pre-release",
+        "status": "finished",
         "author": "Innersource",
         "applies": [
           "react-native"

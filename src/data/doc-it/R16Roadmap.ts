@@ -33,7 +33,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add drawer components for navigation',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -41,7 +41,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add support for multiline/wrapping title and automatic hover states',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -49,7 +49,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add support for tags (within list items)',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -57,7 +57,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a component for stylized cards',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
         ],
@@ -103,7 +103,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Add a drawer component for navigation',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'pre-release',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -134,7 +134,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Expanded documentation for using PX Blue as a designer',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -165,7 +165,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Consolidating code examples into a single repository',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
             {
@@ -188,7 +188,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Shared login and sign-up experience across applications',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'pre-release',
+                status: 'finished',
                 author: 'Innersource',
                 applies: ['react-native'],
             },
