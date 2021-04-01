@@ -1,5 +1,5 @@
 export type FrameworkFilter = 'all' | 'angular' | 'react' | 'ionic' | 'react-native';
-
+export type ItemTypeFilter = 'all' | 'design' | 'development';
 export type Status = 'backlog' | 'in-progress' | 'pre-release' | 'deferred' | 'finished';
 export type Quarter = 'Q1' | 'Q2' | 'Q3' | 'Q4';
 
@@ -13,12 +13,14 @@ export type RoadmapItem = {
     quarter: Quarter;
     status: Status;
     author?: string;
-    applies?: FrameworkFilter[];
+    type?: ItemTypeFilter;
+    framework?: FrameworkFilter[];
 };
 type RoadmapBucket = {
     name: string;
     description: string;
-    applies?: FrameworkFilter[];
+    type: ItemTypeFilter;
+    framework?: FrameworkFilter[];
     items: RoadmapItem[];
 };
 
@@ -26,7 +28,8 @@ export const roadmap: RoadmapBucket[] = [
     {
         name: 'Angular Component Library',
         description: 'Reusable UI elements from @pxblue/angular-components',
-        applies: ['angular', 'ionic'],
+        type: 'development',
+        framework: ['angular', 'ionic'],
         items: [
             {
                 name: 'Drawer',
@@ -65,7 +68,8 @@ export const roadmap: RoadmapBucket[] = [
     {
         name: 'React Component Library',
         description: 'Reusable UI elements from @pxblue/react-components',
-        applies: ['react'],
+        type: 'development',
+        framework: ['react'],
         items: [
             {
                 name: 'Info List Item',
@@ -96,7 +100,8 @@ export const roadmap: RoadmapBucket[] = [
     {
         name: 'React Native Component Library',
         description: 'Reusable UI elements from @pxblue/react-native-components',
-        applies: ['react-native'],
+        type: 'development',
+        framework: ['react-native'],
         items: [
             {
                 name: 'Drawer',
@@ -127,7 +132,7 @@ export const roadmap: RoadmapBucket[] = [
     {
         name: 'pxblue.github.io',
         description: 'The PX Blue documentation site',
-        applies: ['all'],
+        type: 'all',
         items: [
             {
                 name: 'Designer Documentation',
@@ -158,7 +163,8 @@ export const roadmap: RoadmapBucket[] = [
     {
         name: 'Code Examples',
         description: 'Basic code snippets showing how to implement various design patterns',
-        applies: ['all'],
+        type: 'development',
+        framework: ['all'],
         items: [
             {
                 name: 'Simplification and Consolidation',
@@ -181,7 +187,8 @@ export const roadmap: RoadmapBucket[] = [
     {
         name: 'Reusable Workflows',
         description: 'Components for implementing common workflows across applications',
-        applies: ['all'],
+        type: 'development',
+        framework: ['all'],
         items: [
             {
                 name: 'React Native Login & User Registration',
@@ -190,14 +197,15 @@ export const roadmap: RoadmapBucket[] = [
                 quarter: CURRENT_QUARTER,
                 status: 'finished',
                 author: 'Innersource',
-                applies: ['react-native'],
+                framework: ['react-native'],
             },
         ],
     },
     {
         name: 'Utilities',
         description: 'Assorted tools for helping you work faster',
-        applies: ['all'],
+        type: 'development',
+        framework: ['all'],
         items: [
             {
                 name: 'PX Blue CLI',

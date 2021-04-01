@@ -2,7 +2,8 @@
   {
     "name": "Angular Component Library",
     "description": "Reusable UI elements from @pxblue/angular-components",
-    "applies": [
+    "type": "development",
+    "framework": [
       "angular",
       "ionic"
     ],
@@ -44,7 +45,8 @@
   {
     "name": "React Component Library",
     "description": "Reusable UI elements from @pxblue/react-components",
-    "applies": [
+    "type": "development",
+    "framework": [
       "react"
     ],
     "items": [
@@ -77,7 +79,8 @@
   {
     "name": "React Native Component Library",
     "description": "Reusable UI elements from @pxblue/react-native-components",
-    "applies": [
+    "type": "development",
+    "framework": [
       "react-native"
     ],
     "items": [
@@ -110,9 +113,7 @@
   {
     "name": "pxblue.github.io",
     "description": "The PX Blue documentation site",
-    "applies": [
-      "all"
-    ],
+    "type": "all",
     "items": [
       {
         "name": "Designer Documentation",
@@ -143,7 +144,8 @@
   {
     "name": "Code Examples",
     "description": "Basic code snippets showing how to implement various design patterns",
-    "applies": [
+    "type": "development",
+    "framework": [
       "all"
     ],
     "items": [
@@ -168,7 +170,8 @@
   {
     "name": "Reusable Workflows",
     "description": "Components for implementing common workflows across applications",
-    "applies": [
+    "type": "development",
+    "framework": [
       "all"
     ],
     "items": [
@@ -179,7 +182,7 @@
         "quarter": "Q2",
         "status": "finished",
         "author": "Innersource",
-        "applies": [
+        "framework": [
           "react-native"
         ]
       }
@@ -188,7 +191,8 @@
   {
     "name": "Utilities",
     "description": "Assorted tools for helping you work faster",
-    "applies": [
+    "type": "development",
+    "framework": [
       "all"
     ],
     "items": [
