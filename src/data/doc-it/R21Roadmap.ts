@@ -62,14 +62,32 @@ export const roadmap: RoadmapBucket[] = [
         name: 'pxblue.github.io',
         description: 'The PX Blue documentation site',
         type: 'design',
-        items: [ ],
+        items: [ 
+            {
+                name: 'New Design Patterns',
+                description: 'Additional design patterns for common interactions',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'Code Examples',
         description: 'Basic code snippets showing how to implement various design patterns',
         type: 'development',
         framework: ['all'],
-        items: [ ],
+        items: [ 
+            {
+                name: 'Updated Design Pattern Examples',
+                description: 'More comprehensive examples implementing the different elements of our design patterns',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'Reusable Workflows',
@@ -83,13 +101,31 @@ export const roadmap: RoadmapBucket[] = [
         description: 'Styles and colors for applications',
         type: 'development',
         framework: ['all'],
-        items: [ ],
+        items: [ 
+            {
+                name: 'Accessible Themes',
+                description: 'Exploration of more accessible themes',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'Utilities',
         description: 'Assorted tools for helping you work faster',
         type: 'development',
         framework: ['all'],
-        items: [ ],
+        items: [
+            {
+                name: 'Video Tutorials',
+                description: 'Video tutorials showing how to use PX Blue tools & resources',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+         ],
     },
 ];

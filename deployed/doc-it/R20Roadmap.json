@@ -9,7 +9,7 @@
         "description": "Dark theme variations for all of our design components",
         "year": 2021,
         "quarter": "Q2",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue"
       }
     ]
@@ -87,7 +87,16 @@
     "name": "pxblue.github.io",
     "description": "The PX Blue documentation site",
     "type": "design",
-    "items": []
+    "items": [
+      {
+        "name": "Downloadable PNG icons",
+        "description": "Download PX Blue icons in PNG format",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "backlog",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "Code Examples",
@@ -105,7 +114,28 @@
     "framework": [
       "all"
     ],
-    "items": []
+    "items": [
+      {
+        "name": "Internationalization Support",
+        "description": "Translations and i18n support for Angular and React Authentication Workflows",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "backlog",
+        "author": "PX Blue",
+        "framework": [
+          "angular",
+          "react"
+        ]
+      },
+      {
+        "name": "Custom Welcome & Success Screens",
+        "description": "Support for custom welcome and registration success screens",
+        "year": 2021,
+        "quarter": "Q2",
+        "status": "in-progress",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "Themes",
@@ -125,11 +155,11 @@
     ],
     "items": [
       {
-        "name": "PX Blue CLI - Ionic",
+        "name": "PX Blue CLI",
         "description": "Ionic project templates for the CLI",
         "year": 2021,
         "quarter": "Q2",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue"
       }
     ]

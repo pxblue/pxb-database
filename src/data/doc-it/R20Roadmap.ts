@@ -35,7 +35,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Dark theme variations for all of our design components',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
         ],
@@ -106,7 +106,16 @@ export const roadmap: RoadmapBucket[] = [
         name: 'pxblue.github.io',
         description: 'The PX Blue documentation site',
         type: 'design',
-        items: [ ],
+        items: [ 
+            {
+                name: 'Downloadable PNG icons',
+                description: 'Download PX Blue icons in PNG format',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'Code Examples',
@@ -120,7 +129,25 @@ export const roadmap: RoadmapBucket[] = [
         description: 'Components for implementing common workflows across applications',
         type: 'development',
         framework: ['all'],
-        items: [ ],
+        items: [ 
+            {
+                name: 'Internationalization Support',
+                description: 'Translations and i18n support for Angular and React Authentication Workflows',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+                framework: ['angular', 'react']
+            },
+            {
+                name: 'Custom Welcome & Success Screens',
+                description: 'Support for custom welcome and registration success screens',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'in-progress',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'Themes',
@@ -136,11 +163,11 @@ export const roadmap: RoadmapBucket[] = [
         framework: ['all'],
         items: [
             {
-                name: 'PX Blue CLI - Ionic',
+                name: 'PX Blue CLI',
                 description: 'Ionic project templates for the CLI',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
             },
         ],
