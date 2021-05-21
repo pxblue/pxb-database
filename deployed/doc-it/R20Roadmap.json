@@ -117,14 +117,15 @@
     "items": [
       {
         "name": "Internationalization Support",
-        "description": "Translations and i18n support for Angular and React Authentication Workflows",
+        "description": "Translations and i18n support for authentication workflows",
         "year": 2021,
         "quarter": "Q2",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue",
         "framework": [
           "angular",
-          "react"
+          "react",
+          "react-native"
         ]
       },
       {
@@ -132,7 +133,7 @@
         "description": "Support for custom welcome and registration success screens",
         "year": 2021,
         "quarter": "Q2",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       }
     ]
@@ -159,7 +160,7 @@
         "description": "Ionic project templates for the CLI",
         "year": 2021,
         "quarter": "Q2",
-        "status": "in-progress",
+        "status": "finished",
         "author": "PX Blue"
       }
     ]
