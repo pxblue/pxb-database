@@ -44,7 +44,7 @@ export const roadmap: RoadmapBucket[] = [
         name: 'Figma Design Patterns',
         description: 'Adding design pattern examples to Figma',
         type: 'design',
-        items: [ ],
+        items: [],
     },
     {
         name: 'Angular Component Library',
@@ -106,7 +106,7 @@ export const roadmap: RoadmapBucket[] = [
         name: 'pxblue.github.io',
         description: 'The PX Blue documentation site',
         type: 'design',
-        items: [ 
+        items: [
             {
                 name: 'Downloadable PNG icons',
                 description: 'Download PX Blue icons in PNG format',
@@ -122,29 +122,29 @@ export const roadmap: RoadmapBucket[] = [
         description: 'Basic code snippets showing how to implement various design patterns',
         type: 'development',
         framework: ['all'],
-        items: [ ],
+        items: [],
     },
     {
         name: 'Reusable Workflows',
         description: 'Components for implementing common workflows across applications',
         type: 'development',
         framework: ['all'],
-        items: [ 
+        items: [
             {
                 name: 'Internationalization Support',
-                description: 'Translations and i18n support for Angular and React Authentication Workflows',
+                description: 'Translations and i18n support for authentication workflows',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'backlog',
+                status: 'in-progress',
                 author: 'PX Blue',
-                framework: ['angular', 'react']
+                framework: ['angular', 'react', 'react-native'],
             },
             {
                 name: 'Custom Welcome & Success Screens',
                 description: 'Support for custom welcome and registration success screens',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
         ],
@@ -154,7 +154,7 @@ export const roadmap: RoadmapBucket[] = [
         description: 'Styles and colors for applications',
         type: 'development',
         framework: ['all'],
-        items: [ ],
+        items: [],
     },
     {
         name: 'Utilities',
@@ -167,7 +167,7 @@ export const roadmap: RoadmapBucket[] = [
                 description: 'Ionic project templates for the CLI',
                 year: CURRENT_YEAR,
                 quarter: CURRENT_QUARTER,
-                status: 'in-progress',
+                status: 'finished',
                 author: 'PX Blue',
             },
         ],
