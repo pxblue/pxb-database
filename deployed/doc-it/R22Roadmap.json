@@ -43,16 +43,7 @@
     "name": "pxblue.github.io",
     "description": "The PX Blue documentation site",
     "type": "design",
-    "items": [
-      {
-        "name": "New Design Patterns",
-        "description": "Additional design patterns for common interactions",
-        "year": 2021,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      }
-    ]
+    "items": []
   },
   {
     "name": "Code Examples",
@@ -61,16 +52,7 @@
     "framework": [
       "all"
     ],
-    "items": [
-      {
-        "name": "Updated Design Pattern Examples",
-        "description": "More comprehensive examples implementing the different elements of our design patterns",
-        "year": 2021,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      }
-    ]
+    "items": []
   },
   {
     "name": "Reusable Workflows",
@@ -88,16 +70,7 @@
     "framework": [
       "all"
     ],
-    "items": [
-      {
-        "name": "Accessible Themes",
-        "description": "Exploration of more accessible themes",
-        "year": 2021,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      }
-    ]
+    "items": []
   },
   {
     "name": "Utilities",
@@ -106,15 +79,6 @@
     "framework": [
       "all"
     ],
-    "items": [
-      {
-        "name": "Video Tutorials",
-        "description": "Video tutorials showing how to use PX Blue tools & resources",
-        "year": 2021,
-        "quarter": "Q4",
-        "status": "backlog",
-        "author": "PX Blue"
-      }
-    ]
+    "items": []
   }
 ]
