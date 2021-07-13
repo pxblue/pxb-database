@@ -1,34 +1,41 @@
 [
   {
     "name": "Figma Component Library",
-    "description": "Updates to the components in the designer stickersheet",
+    "description": "Updates to the components in the designer sticker sheet",
     "type": "design",
-    "items": []
+    "items": [
+      {
+        "name": "System Components",
+        "description": "Updated system components for keyboards, cursors, notifications, etc.",
+        "year": 2021,
+        "quarter": "Q3",
+        "status": "in-progress",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Website Components",
+        "description": "Add new components specifically for use on websites (e.g., marketing sites)",
+        "year": 2021,
+        "quarter": "Q3",
+        "status": "backlog",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "Figma Design Patterns",
     "description": "Adding design pattern examples to Figma",
     "type": "design",
-    "items": []
-  },
-  {
-    "name": "Angular Component Library",
-    "description": "Reusable UI elements from @pxblue/angular-components",
-    "type": "development",
-    "framework": [
-      "angular",
-      "ionic"
-    ],
-    "items": []
-  },
-  {
-    "name": "React Component Library",
-    "description": "Reusable UI elements from @pxblue/react-components",
-    "type": "development",
-    "framework": [
-      "react"
-    ],
-    "items": []
+    "items": [
+      {
+        "name": "Visualization Components",
+        "description": "Design reusable visualization components",
+        "year": 2021,
+        "quarter": "Q3",
+        "status": "backlog",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "React Native Component Library",
@@ -37,7 +44,24 @@
     "framework": [
       "react-native"
     ],
-    "items": []
+    "items": [
+      {
+        "name": "Themed RNP Components",
+        "description": "Improved theming support via pre-styled wrapper components for React Native Paper",
+        "year": 2021,
+        "quarter": "Q3",
+        "status": "backlog",
+        "author": "PX Blue"
+      },
+      {
+        "name": "Progress Icons",
+        "description": "Dynamically filled SVG progress icons",
+        "year": 2021,
+        "quarter": "Q3",
+        "status": "in-progress",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "pxblue.github.io",
@@ -45,8 +69,8 @@
     "type": "design",
     "items": [
       {
-        "name": "New Design Patterns",
-        "description": "Additional design patterns for common interactions",
+        "name": "Device / Network Commissioning",
+        "description": "New design patterns for setting up a hardware device",
         "year": 2021,
         "quarter": "Q3",
         "status": "backlog",
@@ -67,7 +91,7 @@
         "description": "More comprehensive examples implementing the different elements of our design patterns",
         "year": 2021,
         "quarter": "Q3",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue"
       }
     ]
@@ -79,19 +103,10 @@
     "framework": [
       "all"
     ],
-    "items": []
-  },
-  {
-    "name": "Themes",
-    "description": "Styles and colors for applications",
-    "type": "development",
-    "framework": [
-      "all"
-    ],
     "items": [
       {
-        "name": "Accessible Themes",
-        "description": "Exploration of more accessible themes",
+        "name": "Authentication Workflow",
+        "description": "Add support for username-based login in the authentication workflows ",
         "year": 2021,
         "quarter": "Q3",
         "status": "backlog",
@@ -100,19 +115,19 @@
     ]
   },
   {
-    "name": "Utilities",
-    "description": "Assorted tools for helping you work faster",
-    "type": "development",
+    "name": "Icons",
+    "description": "Components for implementing common workflows across applications",
+    "type": "all",
     "framework": [
       "all"
     ],
     "items": [
       {
-        "name": "Video Tutorials",
-        "description": "Video tutorials showing how to use PX Blue tools & resources",
+        "name": "Device & Channel Icons",
+        "description": "New icons to represent more electrical devices and channels",
         "year": 2021,
         "quarter": "Q3",
-        "status": "backlog",
+        "status": "in-progress",
         "author": "PX Blue"
       }
     ]

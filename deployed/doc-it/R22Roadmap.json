@@ -1,17 +1,5 @@
 [
   {
-    "name": "Figma Component Library",
-    "description": "Updates to the components in the designer sticker sheet",
-    "type": "design",
-    "items": []
-  },
-  {
-    "name": "Figma Design Patterns",
-    "description": "Adding design pattern examples to Figma",
-    "type": "design",
-    "items": []
-  },
-  {
     "name": "Angular Component Library",
     "description": "Reusable UI elements from @pxblue/angular-components",
     "type": "development",
@@ -19,7 +7,16 @@
       "angular",
       "ionic"
     ],
-    "items": []
+    "items": [
+      {
+        "name": "Visualization Components",
+        "description": "Reusable components for common visualization elements",
+        "year": 2021,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "React Component Library",
@@ -28,7 +25,16 @@
     "framework": [
       "react"
     ],
-    "items": []
+    "items": [
+      {
+        "name": "Visualization Components",
+        "description": "Reusable components for common visualization elements",
+        "year": 2021,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "React Native Component Library",
@@ -37,31 +43,16 @@
     "framework": [
       "react-native"
     ],
-    "items": []
-  },
-  {
-    "name": "pxblue.github.io",
-    "description": "The PX Blue documentation site",
-    "type": "design",
-    "items": []
-  },
-  {
-    "name": "Code Examples",
-    "description": "Basic code snippets showing how to implement various design patterns",
-    "type": "development",
-    "framework": [
-      "all"
-    ],
-    "items": []
-  },
-  {
-    "name": "Reusable Workflows",
-    "description": "Components for implementing common workflows across applications",
-    "type": "development",
-    "framework": [
-      "all"
-    ],
-    "items": []
+    "items": [
+      {
+        "name": "Visualization Components",
+        "description": "Reusable components for common visualization elements",
+        "year": 2021,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "Themes",
@@ -70,7 +61,16 @@
     "framework": [
       "all"
     ],
-    "items": []
+    "items": [
+      {
+        "name": "Accessible Themes",
+        "description": "Exploration of more accessible themes",
+        "year": 2021,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      }
+    ]
   },
   {
     "name": "Utilities",
@@ -79,6 +79,15 @@
     "framework": [
       "all"
     ],
-    "items": []
+    "items": [
+      {
+        "name": "Training Materials",
+        "description": "More substantial training materials that show you how to use PX Blue resources effectively",
+        "year": 2021,
+        "quarter": "Q4",
+        "status": "backlog",
+        "author": "PX Blue"
+      }
+    ]
   }
 ]

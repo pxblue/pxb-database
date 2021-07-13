@@ -26,70 +26,83 @@ type RoadmapBucket = {
 
 export const roadmap: RoadmapBucket[] = [
     {
-        name: 'Figma Component Library',
-        description: 'Updates to the components in the designer sticker sheet',
-        type: 'design',
-        items: [ ],
-    },
-    {
-        name: 'Figma Design Patterns',
-        description: 'Adding design pattern examples to Figma',
-        type: 'design',
-        items: [ ],
-    },
-    {
         name: 'Angular Component Library',
         description: 'Reusable UI elements from @pxblue/angular-components',
         type: 'development',
         framework: ['angular', 'ionic'],
-        items: [ ],
+        items: [ 
+            {
+                name: 'Visualization Components',
+                description: 'Reusable components for common visualization elements',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'React Component Library',
         description: 'Reusable UI elements from @pxblue/react-components',
         type: 'development',
         framework: ['react'],
-        items: [ ],
+        items: [ 
+            {
+                name: 'Visualization Components',
+                description: 'Reusable components for common visualization elements',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'React Native Component Library',
         description: 'Reusable UI elements from @pxblue/react-native-components',
         type: 'development',
         framework: ['react-native'],
-        items: [ ],
-    },
-    {
-        name: 'pxblue.github.io',
-        description: 'The PX Blue documentation site',
-        type: 'design',
-        items: [ ],
-    },
-    {
-        name: 'Code Examples',
-        description: 'Basic code snippets showing how to implement various design patterns',
-        type: 'development',
-        framework: ['all'],
-        items: [ ],
-    },
-    {
-        name: 'Reusable Workflows',
-        description: 'Components for implementing common workflows across applications',
-        type: 'development',
-        framework: ['all'],
-        items: [ ],
+        items: [ 
+            {
+                name: 'Visualization Components',
+                description: 'Reusable components for common visualization elements',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'Themes',
         description: 'Styles and colors for applications',
         type: 'development',
         framework: ['all'],
-        items: [ ],
+        items: [ 
+            {
+                name: 'Accessible Themes',
+                description: 'Exploration of more accessible themes',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+        ],
     },
     {
         name: 'Utilities',
         description: 'Assorted tools for helping you work faster',
         type: 'development',
         framework: ['all'],
-        items: [ ],
+        items: [
+            {
+                name: 'Training Materials',
+                description: 'More substantial training materials that show you how to use PX Blue resources effectively',
+                year: CURRENT_YEAR,
+                quarter: CURRENT_QUARTER,
+                status: 'backlog',
+                author: 'PX Blue',
+            },
+         ],
     },
 ];
